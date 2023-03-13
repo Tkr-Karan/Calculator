@@ -44,6 +44,7 @@ form .display input{
     flex: 1;
     box-shadow: none;
     border-radius: 0;
+    font-size: 30px;
 }
 
 form input.equals{
@@ -58,6 +59,7 @@ form input.operators{
 }
 
 form input.operta{
+    font-size: 35px;
     background: orange;
     color: white;
 }
